@@ -1,0 +1,9 @@
+# Package lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# https://github.com/antfu
+.eslintrc-auto-import.json
+auto-imports.d.ts
+components.d.ts
